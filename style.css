@@ -1,5 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
 .grid
 {
+    margin-top:10px;
     display: flex;
     flex-wrap: wrap;
     height: 900px;
